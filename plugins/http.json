@@ -1,12 +1,12 @@
 {
     "repository": {
         "url": "https://github.com/ayushpaultirkey/sandbox-plugins",
-        "path": "fs",
+        "path": "http",
         "branch": "master",
         "releases": {
             "v0.1": {
                 "tag": "20240823",
-                "name": "fs.zip"
+                "name": "http.zip"
             }
         }
     }
